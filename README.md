@@ -2,7 +2,7 @@
 
 # Product Sales Graph Analyzer
 
-A Java desktop application developed as the final examination assignment for the *Tecniche di Programmazione* (Programming Techniques) course at Politecnico di Torino.
+A Java desktop application developed as the final examination assignment for the *Tecniche di Programmazione* (Programming Techniques) course (2022–2023) at Politecnico di Torino.
 
 The application analyzes product sales data stored in a MySQL database and builds weighted, undirected graphs to explore relationships between products belonging to the same brand.
 
