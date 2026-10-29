@@ -1,0 +1,20 @@
+# Maven
+/target/
+
+# IDE
+.settings/
+.classpath
+.project
+.vscode/
+.idea/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Local configuration
+.env
+.env.*
+
+/2023-07-17-B.pdf
